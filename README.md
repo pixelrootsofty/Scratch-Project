@@ -9,7 +9,7 @@ Protect the Earth by shooting down falling bombs!
 
 - Press <b>Spacebar</b> to shoot.
 - Destroy bombs before they reach the ground.
-- Game ends when a bomb hits the Earth.
+- Game ends when a bullet hits a Bomb.
 
 ---
 
@@ -22,7 +22,7 @@ Protect the Earth by shooting down falling bombs!
 ## 📁 Files
 
 - <code>The shooter.sb3</code> – Main Scratch file  
-- <code>screenshot697.png</code> – Game preview image  
+- <code>Screenshot (697).png</code> – Game preview image  
 - <code>README.md</code> – This file
 
 ---
