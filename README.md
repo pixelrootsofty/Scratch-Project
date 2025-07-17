@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Made with 💙 in Scratch by [Your Name]
+> Made with 💙 in Scratch by [pixelrootsofty/bobby bash]
