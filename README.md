@@ -15,7 +15,7 @@ Protect the Earth by shooting down falling bombs!
 
 ## 📸 Preview
 
-<img src="Screenshot697.png" alt="Game Preview" width="400" />
+<img src="Screenshot (697).png" alt="Game Preview" width="400" />
 
 ---
 
