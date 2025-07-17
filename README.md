@@ -29,7 +29,7 @@ Protect the Earth by shooting down falling bombs!
 
 ## 🔗 Play or Remix
 
-<a href="(https://scratch.mit.edu/projects/1195865397/)" target="_blank">
+<a href="https://scratch.mit.edu/projects/1195865397/" target="_blank">
 🎮 Play it on Scratch
 </a>
 
